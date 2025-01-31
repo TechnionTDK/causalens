@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="font-weight: bold;">CaGreS - Causal DAG Summarization 💻</h1>
+<h1 align="center" style="font-weight: bold;">Causalens - Causal DAG Summarization 💻</h1>
 
 <p align="center">
 <a href="#tech">Technologies</a>
@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center">CaGreS (Causal Graph Reduction and Summarization) is a demo tool designed to demonstrate how large causal DAGs (Directed Acyclic Graphs) can be summarized into smaller graphs while preserving core causal structure. This approach helps users work with high-dimensional DAGs more effectively and conduct causal inference without being overwhelmed by too many nodes or edges.
+<p align="center">Causalens is a demo tool designed to demonstrate how large causal DAGs (Directed Acyclic Graphs) can be summarized into smaller graphs while preserving core causal structure. This approach helps users work with high-dimensional DAGs more effectively and conduct causal inference without being overwhelmed by too many nodes or edges.
 
 Key Features
 
